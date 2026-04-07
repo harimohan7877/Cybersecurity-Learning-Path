@@ -36,3 +36,12 @@ Identified my target role: Junior SOC Analyst. Why? High demand (3.5M+ roles) an
 - **Octet:** An IPv4 address is made of 4 octets (8 bits each). Total 32 bits.
 - **MAC Spoofing:** Changing the hardware address (MAC) of a device temporarily to bypass network security filters.
 - **Flag Captured:** [Yahan wo THM flag dalo jo tumhe lab se milega]
+
+- ---
+## 📍 Task 4: Ping (ICMP Protocol)
+- **Concept:** Ping is used to check the reachability of a host on an IP network.
+- **Protocol:** It uses **ICMP** (Internet Control Message Protocol).
+- **Process:** 1. `Echo Request`: Humne pucha "Kya tum waha ho?"
+  2. `Echo Reply`: Host ne bola "Haan, main yaha hoon."
+- **Command:** `ping <IP_Address>`
+- **Learning:** If ping fails, it means the host is down or ICMP is blocked by a firewall.
