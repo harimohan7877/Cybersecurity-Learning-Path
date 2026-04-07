@@ -32,3 +32,7 @@ Identified my target role: Junior SOC Analyst. Why? High demand (3.5M+ roles) an
 
 > **Learning:** Defense is about speed. The faster you 'Contain' the threat, the less damage occurs.
 
+## 📍 Task 2 & 3: IP and MAC Advanced
+- **Octet:** An IPv4 address is made of 4 octets (8 bits each). Total 32 bits.
+- **MAC Spoofing:** Changing the hardware address (MAC) of a device temporarily to bypass network security filters.
+- **Flag Captured:** [Yahan wo THM flag dalo jo tumhe lab se milega]
